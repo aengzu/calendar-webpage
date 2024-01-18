@@ -12,6 +12,6 @@
 삭제를 누르면 해당 메모는 완전히 삭제되어 노란색 체크표시도 사라진다. 
 <br>
 <br>
-<img width="718" alt="스크린샷 2024-01-18 오후 8 18 56" src="https://github.com/aengzu/calendar-webpage/assets/102356873/52baa2f9-792e-4d2e-b785-e98f7460154e">
+<img width="518" alt="스크린샷 2024-01-18 오후 8 18 56" src="https://github.com/aengzu/calendar-webpage/assets/102356873/52baa2f9-792e-4d2e-b785-e98f7460154e">
 
 
