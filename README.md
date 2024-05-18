@@ -4,7 +4,7 @@
 ---
 ### 1. 우선 피그마로 틀을 잡았다. In Figma
 약간 노션같은 분위기를 내고 싶어서 노션 디자인을 참고 하였다. 
-<br>I want to follow Notion's style. <br>
+<br>I wanted to follow Notion's style. <br>
 날짜 하나 사라진 건 실수로 삭제한 거다.
 <br>
 <br>
